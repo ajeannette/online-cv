@@ -42,12 +42,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Upon graduating with my BA in English Literature with a minor in Medieval Studies, I was hired to fulfill the new role of Open Educational Resource (OER) Publishing Coordinator at Milne Library
+      at the State University of New York (SUNY) at Geneseo in partnership with the SUNY OER Services team. This role serviced faculty system-wide, providing them with guidance
+      on and production of OER textbooks, primarily in print format. While most OER textbooks are distributed digitally, as OER as a concept is a naturally online initiative, 
+      SUNY recognized that there was a need for providing faculty and students with print versions of the online, openly available textbooks at as low a cost as possible.
+      I entered this role with some experience in publication design, WordPress, basic HTML and CSS, and distance communication. These skills served me and this position well as they 
+      provided a framework for producing clean and accessible textbooks and PDFs.
+
+      In November 2019 I was invited to transition from this role into a fully Geneseo-centric position with the newly founded Center for Digital Learning (CDL)
 education:
     - degree: Master of Library and Information Science - MLIS
       university: Texas Woman's University
@@ -162,23 +164,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Photoshop
         level: 60%
+
+      - name: Javascript & jQuery
+        level: 30%
+
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
