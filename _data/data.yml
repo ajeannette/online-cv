@@ -66,9 +66,12 @@ education:
       university: State University of New York at Geneseo
       time: 2014 - 2018
       details: |
-        Description
-          - Bullet point
-          - Bullet point
+        "Honors:"
+          - summa cum laude
+          - Phi Beta Kappa society
+          - Rita K. Gollin Scholarship for Excellence in American Literature (Fall 2016-Spring 2018)
+          - Mulbauer Family Award for Excellence in British Literature
+          - President’s List (Fall 2015, Spring 2015)
 experiences:
     - role: Digital Humanities + Learning Coordinator
       time: July 2020 - Present
@@ -88,15 +91,19 @@ experiences:
           - Schedules and organizes collaborative meetings with various groups and stakeholders remotely
     - role: Open Educational Resource Publishing Coordinator
       time: May 2018 - June 2020
-      company: SUNY Geneseo, Geneseo, NY
+      company: SUNY OER Services, Geneseo, NY
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Solicited and processed requests to print openly-licensed textbooks for SUNY faculty
+          - Communicated with faculty and bookstores across the SUNY system to coordinate printing and ordering process
+          - Verified textbook copyright and licensing
+          - Prepared digital files for printing, involving an extensive XML workflow, XHTML editing in Command Line, and applying and adjusting CSS
+          - Coordinated with primary printing service to process publications
+          - Maintained an archive of digital textbooks utilizing the database spreadsheet Airtable and Google Docs
     - role: Research + Instruction Intern
       time: Spring 2018
       company: Milne Library, SUNY Geneseo, Geneseo, NY
@@ -106,8 +113,10 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Provided reference help to library patrons from both the campus and community
+          - Organized a digital project utilizing the program EZpaarse to develop ways for libraries to effectively analyze patrons’ off-campus database usage
+          - Collaborated with Instruction Librarians to develop, organize, and co-teach classes in subject-specific information literacy
+          - Developed LibGuides to increase usability of library resources
 projects:
     title: Projects
     intro: >
