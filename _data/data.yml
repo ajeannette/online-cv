@@ -12,7 +12,7 @@ sidebar:
     avatar: profile2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: wentworth@geneseo.edu
+    email: awentworth96@gmail.com
     # phone: 012 345 6789
     # website: blog.webjeda.com #do not add http://
     linkedin: www.linkedin.com/in/amanda-wentworth
@@ -120,9 +120,13 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here you'll find some of the creative, outside-the-box writing and digitally-minded projects I've taken a lead role
+      in developing as both a student and professional.
+    assignments: 
+      - title: The Center for Digital Learning Blog
+        link: https://cdl-geneseo.github.io/
+        tagline: "Co-led the development of a Jekyll-based blog site for SUNY Geneseo's Center for Digital Humanities. It was my responsibility to organize, solicit, review, edit, and, often, produce content on a regular basis for this site, as well as maintain its functionality and design."
+    
     assignments:
       - title: The Soldier Librarian
         link: "http://slob.coplacdigital.org/geneseo"
