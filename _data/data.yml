@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Amanda Wentworth Schmidt
@@ -49,7 +49,9 @@ career-profile:
       I entered this role with some experience in publication design, WordPress, basic HTML and CSS, and distance communication. These skills served me and this position well as they 
       provided a framework for producing clean and accessible textbooks and PDFs.
 
-      In November 2019 I was invited to transition from this role into a fully Geneseo-centric position with the newly founded Center for Digital Learning (CDL)
+      In November 2019 I was invited to transition from this role into a fully Geneseo-centric position with the newly founded Center for Digital Learning (CDL).
+      This assignment has been a great and joyful undertaking for me, as it allows me to develop an impactful and innovative educational center from the ground up while
+      engaging with educational topics that matter most to me: open education and pedagogy, accessibility, inclusivity, diversity, and compassionate professionalism.
 education:
     - degree: Master of Library and Information Science - MLIS
       university: Texas Woman's University
