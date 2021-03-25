@@ -136,10 +136,9 @@ presentations:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 'Open for Innovation: Supporting Public-facing Teaching and Learning with SUNY Create'
+        authors: 'Co-presenters: Ed Beck (SUNY Oneonta), Paul Schacht (SUNY Geneseo), Jennifer Jensen (SUNY Oneonta), John Kane (SUNY Oswego), Keith Landa (SUNY Purchase)'
+        conference: The 29th Annual Conference On Instruction & Technology, May 2021
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
