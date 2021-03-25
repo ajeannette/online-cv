@@ -129,8 +129,8 @@ projects:
         link: "http://slob.coplacdigital.org/geneseo"
         tagline: "Developed and managed all aspects of a digitization project working with sixteenth-century manuscripts, producing an interactive WordPress-powered website as part of a COPLAC Digital course."
 
-# publications:
-#    title: Publications
+# presentations:
+#    title: Presentations
 #    intro: |
 #      You can list your publications in this section. Lorem ipsum dolor sit
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -161,6 +161,12 @@ skills:
 
       - name: HTML5 & CSS
         level: 90%
+
+      - name: Adobe Creative Suite
+        level: 90%
+
+      - name: Command Line
+        level: 80%
 
       - name: Photoshop
         level: 60%
