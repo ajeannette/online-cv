@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Amanda Wentworth Schmidt
@@ -36,7 +36,7 @@ sidebar:
       - item: Knitting
         link:
 
-      - item: Walking
+      - item: Jogging
         link:
 
 career-profile:
@@ -49,24 +49,22 @@ career-profile:
       I entered this role with some experience in publication design, WordPress, basic HTML and CSS, and distance communication. These skills served me and this position well as they 
       provided a framework for producing clean and accessible textbooks and PDFs.
 
-      In November 2019 I was invited to transition from this role into a fully Geneseo-centric position with the newly founded Center for Digital Learning (CDL)
+      In November 2019 I was invited to transition from this role into a fully Geneseo-centric position with the newly founded Center for Digital Learning (CDL).
+      This assignment has been a great and joyful undertaking for me, as it allows me to develop an impactful and innovative educational center from the ground up while
+      engaging with educational topics that matter most to me: open education and pedagogy, accessibility, inclusivity, diversity, and compassionate professionalism.
 education:
     - degree: Master of Library and Information Science - MLIS
       university: Texas Woman's University
       time: 2019 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        My time in the TWU Library and Information Science iSchool has been an accessible way for me to learn about data, knowledge empowerment, 
+        and institutional relationships to community stakeholders. I hope to take what I've learned from this experience and apply
+        it outside of the conventional library space.
     - degree: BA in English Literature
       university: State University of New York at Geneseo
       time: 2014 - 2018
       details: |
-        "Honors:"
+        Honors:
           - summa cum laude
           - Phi Beta Kappa society
           - Rita K. Gollin Scholarship for Excellence in American Literature (Fall 2016-Spring 2018)
@@ -123,7 +121,7 @@ projects:
     assignments:
       - title: Geneseo OpenLab
         link: https://geneseo.sunycreate.cloud/
-        tagline: "" 
+        tagline: "Spearheaded, developed, and managed all aspects of a multisite running an open source WordPress theme created and maintained by the CUNY Graduate Center and ran as the network administrator while promoting it on the SUNY Geneseo campus." 
       - title: The Center for Digital Learning Blog
         link: https://cdl-geneseo.github.io/
         tagline: "Co-led the development of a Jekyll-based blog site for SUNY Geneseo's Center for Digital Humanities. It was my responsibility to organize, solicit, review, edit, and, often, produce content on a regular basis for this site, as well as maintain its functionality and design."
@@ -131,35 +129,44 @@ projects:
         link: "http://slob.coplacdigital.org/geneseo"
         tagline: "Developed and managed all aspects of a digitization project working with sixteenth-century manuscripts, producing an interactive WordPress-powered website as part of a COPLAC Digital course."
 
-# publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-#
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+presentations:
+    title: Presentations
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
 
+      - name: WordPress
+        level: 98%
+
       - name: HTML5 & CSS
         level: 90%
+
+      - name: Adobe Creative Suite
+        level: 90%
+
+      - name: Command Line
+        level: 80%
 
       - name: Photoshop
         level: 60%
