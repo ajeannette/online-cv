@@ -36,7 +36,7 @@ sidebar:
       - item: Knitting
         link:
 
-      - item: Walking
+      - item: Jogging
         link:
 
 career-profile:
@@ -123,7 +123,7 @@ projects:
     assignments:
       - title: Geneseo OpenLab
         link: https://geneseo.sunycreate.cloud/
-        tagline: "" 
+        tagline: "Spearheaded, developed, and managed all aspects of a multisite running an open source WordPress theme created and maintained by the CUNY Graduate Center and ran as the network administrator while promoting it on the SUNY Geneseo campus." 
       - title: The Center for Digital Learning Blog
         link: https://cdl-geneseo.github.io/
         tagline: "Co-led the development of a Jekyll-based blog site for SUNY Geneseo's Center for Digital Humanities. It was my responsibility to organize, solicit, review, edit, and, often, produce content on a regular basis for this site, as well as maintain its functionality and design."
@@ -157,6 +157,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+
+      - name: WordPress
+        level: 98%
 
       - name: HTML5 & CSS
         level: 90%
