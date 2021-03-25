@@ -93,30 +93,30 @@ experiences:
       time: May 2018 - June 2020
       company: SUNY OER Services, Geneseo, NY
       details: |
-       Describe your role here lorem ipsum dolor sit amet, consectetuer
-       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-       Cum sociis natoque penatibus et magnis dis parturient montes,
-       nascetur ridiculus mus. Donec quam felis, ultricies nec,
-       pellentesque eu, pretium quis, sem.
-          - Solicited and processed requests to print openly-licensed textbooks for SUNY faculty
-          - Communicated with faculty and bookstores across the SUNY system to coordinate printing and ordering process
-          - Verified textbook copyright and licensing
-          - Prepared digital files for printing, involving an extensive XML workflow, XHTML editing in Command Line, and applying and adjusting CSS
-          - Coordinated with primary printing service to process publications
-          - Maintained an archive of digital textbooks utilizing the database spreadsheet Airtable and Google Docs
-    - role: Research and Instruction Intern
+#       Describe your role here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#       Cum sociis natoque penatibus et magnis dis parturient montes,
+#       nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#       pellentesque eu, pretium quis, sem.
+        - Solicited and processed requests to print openly-licensed textbooks for SUNY faculty
+        - Communicated with faculty and bookstores across the SUNY system to coordinate printing and ordering process
+        - Verified textbook copyright and licensing
+        - Prepared digital files for printing, involving an extensive XML workflow, XHTML editing in Command Line, and applying and adjusting CSS
+        - Coordinated with primary printing service to process publications
+        - Maintained an archive of digital textbooks utilizing the database spreadsheet Airtable and Google Docs
+    - role: Research + Instruction Intern
       time: Spring 2018
       company: Milne Library, SUNY Geneseo, Geneseo, NY
       details: |
-       Describe your role here lorem ipsum dolor sit amet, consectetuer
-       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-       Cum sociis natoque penatibus et magnis dis parturient montes,
-       nascetur ridiculus mus. Donec quam felis, ultricies nec,
-       pellentesque eu, pretium quis, sem.
-          - Provided reference help to library patrons from both the campus and community
-          - Organized a digital project utilizing the program EZpaarse to develop ways for libraries to effectively analyze patrons’ off-campus database usage
-          - Collaborated with Instruction Librarians to develop, organize, and co-teach classes in subject-specific information literacy
-          - Developed LibGuides to increase usability of library resources
+#       Describe your role here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#       Cum sociis natoque penatibus et magnis dis parturient montes,
+#       nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#       pellentesque eu, pretium quis, sem.
+        - Provided reference help to library patrons from both the campus and community
+        - Organized a digital project utilizing the program EZpaarse to develop ways for libraries to effectively analyze patrons’ off-campus database usage
+        - Collaborated with Instruction Librarians to develop, organize, and co-teach classes in subject-specific information literacy
+        - Developed LibGuides to increase usability of library resources
 projects:
     title: Projects
     intro: >
@@ -126,33 +126,32 @@ projects:
       - title: The Center for Digital Learning Blog
         link: https://cdl-geneseo.github.io/
         tagline: "Co-led the development of a Jekyll-based blog site for SUNY Geneseo's Center for Digital Humanities. It was my responsibility to organize, solicit, review, edit, and, often, produce content on a regular basis for this site, as well as maintain its functionality and design."
-    
     assignments:
       - title: The Soldier Librarian
         link: "http://slob.coplacdigital.org/geneseo"
         tagline: "Developed and managed all aspects of a digitization project working with sixteenth-century manuscripts, producing an interactive WordPress-powered website as part of a COPLAC Digital course."
 
- publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+# publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
