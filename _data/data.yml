@@ -120,7 +120,10 @@ projects:
     intro: >
       Here you'll find some of the creative, outside-the-box writing and digitally-minded projects I've taken a lead role
       in developing as both a student and professional.
-    assignments: 
+    assignments:
+      - title: Geneseo OpenLab
+        link: https://geneseo.sunycreate.cloud/
+        tagline: "" 
       - title: The Center for Digital Learning Blog
         link: https://cdl-geneseo.github.io/
         tagline: "Co-led the development of a Jekyll-based blog site for SUNY Geneseo's Center for Digital Humanities. It was my responsibility to organize, solicit, review, edit, and, often, produce content on a regular basis for this site, as well as maintain its functionality and design."
